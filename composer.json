@@ -1,0 +1,19 @@
+{
+    "name": "wirnex/arguments-check",
+    "type": "library",
+    "description": "Logging for PHP",
+    "keywords": ["arguments","check"],
+    "homepage": "https://github.com/Wirnex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Igor Pletenev",
+            "email": "igor@wirnex.ru",
+            "homepage": "https://github.com/Wirnex",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
