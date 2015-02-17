@@ -1,7 +1,7 @@
 {
     "name": "wirnex/arguments-check",
     "type": "library",
-    "description": "Logging for PHP",
+    "description": "Data validating PHP",
     "keywords": ["arguments","check"],
     "homepage": "https://github.com/Wirnex",
     "license": "MIT",
