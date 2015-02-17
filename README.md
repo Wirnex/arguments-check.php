@@ -5,6 +5,7 @@ Assume we have some function which takes an array as argument and then reads thi
 function feedMeWithAnArray(array $data)
 {
 	$balance = 0;
+	// Using ArgumentsCheck class we describe what array we expect
 	ArgumentsCheck::CheckArguments(array('userId', 'sum', 'timestamp'),  $data);
 	//
 	// here we sure that all arguments were passed to function
