@@ -27,3 +27,8 @@ feedMeWithAnArray(array(
 ```shell
 phpunit test.php
 ```
+
+## Install
+```shell
+composer require wirnex/arguments-check
+```
