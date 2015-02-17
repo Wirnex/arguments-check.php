@@ -2,6 +2,8 @@
 ## Usage
 Assume we have some function which takes an array as argument and then reads this array with some keys. In some situations the array may not contain specific keys. This class is to validate an input array passed into the function.
 ```php
+require 'ArgumentsCheck.php';
+
 function feedMeWithAnArray(array $data)
 {
 	$balance = 0;
